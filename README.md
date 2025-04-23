@@ -46,6 +46,10 @@
 1. **Clonar el repositorio:**  
    ```bash
    git clone https://github.com/Murasa4/proyecto-facultad-primero.git
+
+
+
+
 2. **Descargar la base de datos y configurarla en PostgreSQL.**
 3. **Configurar la conexión del proyecto con la base de datos.**
 3. **Ejecutar el programa en el IDE.**
