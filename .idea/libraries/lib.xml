@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netgauchos-v2/lib/jdatepicker-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netgauchos-v2/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netgauchos-v2/lib/ojdbc7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netgauchos-v2/lib/ojdbc8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netgauchos-v2/lib/postgresql-42.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netgauchos-v2/lib/jline-terminal-3.29.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
