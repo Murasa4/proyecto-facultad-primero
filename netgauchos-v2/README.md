@@ -56,3 +56,12 @@
 4. **Interactuar con la aplicacion y sus distintas opciones desde la interfaz de la terminal.**
 
 ---
+## 📝 Estructura inicial de la Base de Datos 
+```bash
+CREATE USER proyecto WITH PASSWORD 'admin';
+ALTER DATABASE asur OWNER TO proyecto;
+CREATE SCHEMA proyecto AUTHORIZATION proyecto;
+ALTER DEFAULT PRIVILEGES IN SCHEMA proyecto GRANT ALL ON TABLES TO proyecto;
+ALTER DEFAULT PRIVILEGES IN SCHEMA proyecto GRANT ALL ON SEQUENCES TO proyecto;
+GRANT ALL ON SCHEMA proyecto TO proyecto;
+
