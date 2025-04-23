@@ -45,7 +45,7 @@
 
 1. **Clonar el repositorio:**  
    ```bash
-   git clone https://github.com/tu_usuario/NetGauchos.git
+   git clone https://github.com/Murasa4/proyecto-facultad-primero.git
 
 
 
@@ -56,8 +56,3 @@
 4. **Interactuar con la aplicacion y sus distintas opciones desde la interfaz de la terminal.**
 
 ---
-## 📚 **Autores**
-- Joaquín Oviedo
-- Sebastián Sasías
-- Jonathan De los Santos
-- Lucas Mello
